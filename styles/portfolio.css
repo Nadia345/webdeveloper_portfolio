@@ -116,7 +116,7 @@ margin: 130 0;
 #what-i-do-description{
     padding: 30px 150px;
 }
-.skill-container{
+.skills-container{
     display: flex;
     gap: 24px;
 
@@ -172,6 +172,9 @@ footer{
 }
 .footer-column{
     width: 50%;
+}
+.social-links a{
+    margin-right: 25px;
 }
 .contact input[type= "text"], .contact input[type= "email"], textarea{
     display: block;
